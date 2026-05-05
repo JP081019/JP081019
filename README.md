@@ -7,25 +7,32 @@ Me chamo João Pedro e sou apaixonado por tecnologia, desenvolvimento web e cria
 Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, páginas de cadastro, soluções digitais e sistemas com integração de autenticação, dashboard e pagamento. Meu foco é evoluir como desenvolvedor front-end, criando páginas bonitas, funcionais, bem organizadas e pensadas para usuários reais.
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=repositories">
+    <a href="https://jpdevdigitalweb.netlify.app/" target="_blank">
         <img 
-            alt="Meus repositórios" 
-            title="Veja meus projetos no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Meus%20Projetos-236ad3?style=for-the-badge&logo=repo&logoColor=white&labelColor=1155ba"
+            alt="Meu site" 
+            title="Acesse meu site" 
+            src="https://custom-icon-badges.demolab.com/badge/Meu%20Site-0f766e?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU-USUARIO?tab=followers">
+    <a href="mailto:joao081019pedrodasilv@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="E-mail" 
+            title="Me envie um e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/E--mail-D14836?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/joão-pedro-silva-380a1b32a" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Me acompanhe no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/jp.dev081019/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me acompanhe no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -114,14 +121,14 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
 
 ### 🚀 Projetos que já desenvolvi
 
-#### Barber Premium
-Site moderno para barbearia premium com escolha de estilos, galeria, depoimentos e simulação de agendamento.
-
 #### JP Dev - Soluções Digitais
 Site institucional para apresentação de serviços digitais, com foco em presença online, design moderno e conversão.
 
 #### JP Contracts
 Projeto de gestão de contratos com páginas de login, cadastro, dashboard, checkout, pagamento e integração com Supabase e Mercado Pago.
+
+#### Barber Premium
+Site moderno para barbearia premium com escolha de estilos, galeria, depoimentos e simulação de agendamento.
 
 #### NOX Wear
 Landing page/e-commerce de moda streetwear com vitrine de produtos, visual premium e experiência comercial.
@@ -155,14 +162,14 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JP081019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP081019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
@@ -173,18 +180,39 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
 ### 📫 Contato
 
 <p align="left">
-    <a href="mailto:SEUEMAIL@email.com">
+    <a href="https://jpdevdigitalweb.netlify.app/" target="_blank">
+        <img 
+            alt="Site" 
+            title="Meu site" 
+            src="https://custom-icon-badges.demolab.com/badge/Site-jpdevdigitalweb.netlify.app-0f766e?style=for-the-badge&logo=globe&logoColor=white"
+        />
+    </a>
+    <a href="mailto:joao081019pedrodasilv@gmail.com">
         <img 
             alt="E-mail" 
             title="Me envie um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/E--mail-D14836?style=for-the-badge&logo=mail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/E--mail-joao081019pedrodasilv%40gmail.com-D14836?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <a href="https://www.linkedin.com/in/joão-pedro-silva-380a1b32a" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Me acompanhe no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-João%20Pedro%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/jp.dev081019/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-jp.dev081019-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/5548996656319" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Fale comigo no WhatsApp" 
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-(48)%2099665--6319-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
 </p>
@@ -192,4 +220,3 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
