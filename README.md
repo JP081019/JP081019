@@ -171,26 +171,6 @@ Projeto didático com formulário completo, validação em JavaScript, upload de
 
 ---
 
-## 📊 Estatísticas
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=JP081019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    alt="Linguagens mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP081019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="left">
