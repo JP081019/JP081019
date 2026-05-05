@@ -1,10 +1,11 @@
-# 👨🏻‍💻 João Pedro
+# 👨🏻‍💻 João Pedro Silva
 
-**`Desenvolvedor Front-end em formação`**
+**`Desenvolvedor Front-end em formação | Criador de sites modernos`**
 
-Me chamo João Pedro e sou apaixonado por tecnologia, desenvolvimento web e criação de sites modernos. Atualmente venho desenvolvendo projetos práticos com **HTML, CSS e JavaScript**, criando interfaces responsivas, landing pages profissionais, formulários, páginas comerciais, sistemas de agendamento e experiências digitais para diferentes tipos de negócio.
+Me chamo **João Pedro Silva** e sou apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais.  
+Atualmente desenvolvo projetos práticos com **HTML, CSS e JavaScript**, criando sites modernos, responsivos, organizados e pensados para negócios reais.
 
-Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, páginas de cadastro, soluções digitais e sistemas com integração de autenticação, dashboard e pagamento. Meu foco é evoluir como desenvolvedor front-end, criando páginas bonitas, funcionais, bem organizadas e pensadas para usuários reais.
+Tenho experiência criando **landing pages**, **sites institucionais**, **interfaces comerciais**, **formulários**, **sistemas de agendamento**, **páginas de e-commerce** e projetos com integrações iniciais usando **Supabase**, **Mercado Pago** e publicação na web.
 
 <p align="left">
     <a href="https://jpdevdigitalweb.netlify.app/" target="_blank">
@@ -24,28 +25,46 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     <a href="https://www.linkedin.com/in/joão-pedro-silva-380a1b32a" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Me acompanhe no LinkedIn" 
+            title="Meu LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/jp.dev081019/" target="_blank">
         <img 
             alt="Instagram" 
-            title="Me acompanhe no Instagram" 
+            title="Meu Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/5548996656319" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Fale comigo no WhatsApp" 
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Front-end em formação
+- 🎨 Foco em interfaces bonitas, responsivas e profissionais
+- 🌐 Criação de sites para negócios locais e projetos comerciais
+- 🧠 Estudando JavaScript, DOM, responsividade e integrações web
+- 📈 Buscando evoluir com projetos reais e bem estruturados
+- 🛠️ Interesse em transformar ideias em páginas funcionais e publicáveis
+
+---
+
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -53,7 +72,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -61,7 +80,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -69,7 +88,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -77,7 +96,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
@@ -85,7 +104,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="Supabase" 
     title="Supabase"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
@@ -93,7 +112,7 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
     align="left" 
     alt="Netlify" 
     title="Netlify"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" 
 />
@@ -103,92 +122,106 @@ Tenho trabalhado em projetos como sites para barbearias, cabanas, e-commerce, p�
 
 ---
 
-### 🧠 O que estou desenvolvendo
+## 🧩 Habilidades
 
-- Criação de sites responsivos com HTML, CSS e JavaScript
-- Landing pages modernas para negócios locais
-- Interfaces comerciais com foco em apresentação profissional
-- Formulários com validação usando JavaScript
-- Sistemas simples de agendamento
-- Páginas de e-commerce com produtos e carrinho
-- Dashboards e telas de login/cadastro
-- Integrações iniciais com Supabase
-- Integrações de pagamento com Mercado Pago
-- Estruturação de projetos para publicação na web
-- SEO básico com meta tags, sitemap e robots.txt
+| Área | Habilidades |
+|---|---|
+| **Front-end** | HTML5, CSS3, JavaScript, manipulação do DOM |
+| **Layout** | Flexbox, Grid Layout, responsividade, mobile first |
+| **Interface** | Landing pages, sites institucionais, páginas comerciais |
+| **Interatividade** | Formulários, validação, menus, cards dinâmicos, agendamentos |
+| **Projetos comerciais** | Sites para serviços, barbearias, cabanas, e-commerce e soluções digitais |
+| **Integrações** | Supabase, Mercado Pago, WhatsApp, publicação com Netlify |
+| **SEO básico** | Meta tags, sitemap, robots.txt e estrutura semântica |
 
 ---
 
-### 🚀 Projetos que já desenvolvi
+## 🏆 Projetos em destaque
 
-#### JP Dev - Soluções Digitais
-Site institucional para apresentação de serviços digitais, com foco em presença online, design moderno e conversão.
+### 🌐 JP Dev - Soluções Digitais
+Site institucional criado para apresentar serviços digitais, com foco em presença online, design profissional e conversão de clientes.
 
-#### JP Contracts
-Projeto de gestão de contratos com páginas de login, cadastro, dashboard, checkout, pagamento e integração com Supabase e Mercado Pago.
+### 📄 JP Contracts
+Projeto de gestão de contratos com páginas de login, cadastro, dashboard, checkout, pagamento e integração com **Supabase** e **Mercado Pago**.
 
-#### Barber Premium
-Site moderno para barbearia premium com escolha de estilos, galeria, depoimentos e simulação de agendamento.
+### 💈 Barber Premium
+Site moderno para barbearia premium com galeria, escolha de estilos, depoimentos e simulação de agendamento.
 
-#### NOX Wear
-Landing page/e-commerce de moda streetwear com vitrine de produtos, visual premium e experiência comercial.
+### 🛍️ NOX Wear
+Página de e-commerce para marca de roupas streetwear, com vitrine de produtos, identidade visual forte e experiência comercial.
 
-#### Refúgio Serra Azul
-Site para cabanas e hospedagem na natureza, com galeria, apresentação do espaço e chamada para reserva.
+### 🏡 Refúgio Serra Azul
+Site para cabanas e hospedagem na natureza, com apresentação visual, galeria de imagens e chamada para reserva.
 
-#### Página de Cadastro
-Projeto didático com formulário completo, campos obrigatórios, upload de arquivo, validação em JavaScript e layout responsivo.
+### 🧾 Página de Cadastro
+Projeto didático com formulário completo, validação em JavaScript, upload de arquivo e layout responsivo.
 
 ---
 
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 - JavaScript moderno
-- Manipulação do DOM
+- Manipulação avançada do DOM
 - Responsividade avançada
-- Boas práticas de UI/UX
-- Organização de projetos web
+- UI/UX para interfaces web
+- Organização de projetos front-end
 - Integrações com APIs
 - Git e GitHub
-- Publicação de sites
+- Publicação de sites na web
 
 ---
 
-### 📫 Contato
+## 📊 Estatísticas
+
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=JP081019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    alt="Linguagens mais usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP081019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+---
+
+## 📫 Contato
 
 <p align="left">
     <a href="https://jpdevdigitalweb.netlify.app/" target="_blank">
         <img 
             alt="Site" 
             title="Meu site" 
-            src="https://custom-icon-badges.demolab.com/badge/Site-jpdevdigitalweb.netlify.app-0f766e?style=for-the-badge&logo=globe&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Site%20Oficial-0f766e?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
----
     <a href="mailto:joao081019pedrodasilv@gmail.com">
         <img 
             alt="E-mail" 
             title="Me envie um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/E--mail-joao081019pedrodasilv%40gmail.com-D14836?style=for-the-badge&logo=mail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/E--mail-D14836?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
----
     <a href="https://www.linkedin.com/in/joão-pedro-silva-380a1b32a" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-João%20Pedro%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
----
     <a href="https://www.instagram.com/jp.dev081019/" target="_blank">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-jp.dev081019-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
----
     <a href="https://wa.me/5548996656319" target="_blank">
         <img 
             alt="WhatsApp" 
@@ -200,4 +233,6 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<p align="center">
+  Obrigado por visitar meu perfil.
+</p>
