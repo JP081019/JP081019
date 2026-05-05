@@ -154,29 +154,6 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JP081019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP081019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br clear="left"/>
-
----
-
 ### 📫 Contato
 
 <p align="left">
@@ -187,6 +164,7 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
             src="https://custom-icon-badges.demolab.com/badge/Site-jpdevdigitalweb.netlify.app-0f766e?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
+---
     <a href="mailto:joao081019pedrodasilv@gmail.com">
         <img 
             alt="E-mail" 
@@ -194,6 +172,7 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
             src="https://custom-icon-badges.demolab.com/badge/E--mail-joao081019pedrodasilv%40gmail.com-D14836?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
+---
     <a href="https://www.linkedin.com/in/joão-pedro-silva-380a1b32a" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -201,6 +180,7 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-João%20Pedro%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+---
     <a href="https://www.instagram.com/jp.dev081019/" target="_blank">
         <img 
             alt="Instagram" 
@@ -208,6 +188,7 @@ Projeto didático com formulário completo, campos obrigatórios, upload de arqu
             src="https://custom-icon-badges.demolab.com/badge/Instagram-jp.dev081019-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+---
     <a href="https://wa.me/5548996656319" target="_blank">
         <img 
             alt="WhatsApp" 
