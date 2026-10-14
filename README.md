@@ -8,7 +8,7 @@ Atualmente desenvolvo projetos práticos com **HTML, CSS e JavaScript**, criando
 Tenho experiência criando **landing pages**, **sites institucionais**, **interfaces comerciais**, **formulários**, **sistemas de agendamento**, **páginas de e-commerce** e projetos com integrações iniciais usando **Supabase**, **Mercado Pago** e publicação na web.
 
 <p align="left">
-    <a href="https://jpdevdigitalweb.netlify.app/" target="_blank">
+    <a href="https://jpcreative.com.br" target="_blank">
         <img 
             alt="Meu site" 
             title="Acesse meu site" 
